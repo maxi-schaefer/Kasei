@@ -1,10 +1,7 @@
-:: Kasei | CMD Bypass by gokimax
-:: Github: https://github.com/gokiimax
+:: Kasei | CMD Bypass by Maxi Schaefer
+:: Github: https://github.com/maxi-schaefer
 
 @echo off
-title Kasei - gokimax
-color 6
-
 :main
 echo.
 set /p command="Kasei | %cd% $~> "
