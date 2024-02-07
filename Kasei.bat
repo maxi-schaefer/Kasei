@@ -4,6 +4,6 @@
 @echo off
 :main
 echo.
-set /p command="Kasei | %cd% $~> "
+set /p command="Kasei %cd% > "
 cmd.exe /c %command%
 goto main
